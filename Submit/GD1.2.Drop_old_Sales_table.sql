@@ -1,0 +1,1 @@
+DROP TABLE [talent5_0971488888].[Sales];
