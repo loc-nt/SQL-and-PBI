@@ -1,0 +1,7 @@
+Kính gửi giám khảo,
+
+Do gmail không cho phép đính kèm file .bat, vui lòng đổi tên miền cho 2 files sau từ .txt sang .bat trước khi chạy batch:
+1. migrate_data.txt
+2. thư mục sys\ToCsv.txt
+
+Xin cảm ơn!
